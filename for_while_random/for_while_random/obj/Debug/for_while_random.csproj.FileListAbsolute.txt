@@ -1,0 +1,10 @@
+C:\Users\user\OneDrive\Desktop\ntp\for_while_random\for_while_random\bin\Debug\for_while_random.exe.config
+C:\Users\user\OneDrive\Desktop\ntp\for_while_random\for_while_random\bin\Debug\for_while_random.exe
+C:\Users\user\OneDrive\Desktop\ntp\for_while_random\for_while_random\bin\Debug\for_while_random.pdb
+C:\Users\user\OneDrive\Desktop\ntp\for_while_random\for_while_random\obj\Debug\for_while_random.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\ntp\for_while_random\for_while_random\obj\Debug\for_while_random.Form1.resources
+C:\Users\user\OneDrive\Desktop\ntp\for_while_random\for_while_random\obj\Debug\for_while_random.Properties.Resources.resources
+C:\Users\user\OneDrive\Desktop\ntp\for_while_random\for_while_random\obj\Debug\for_while_random.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Desktop\ntp\for_while_random\for_while_random\obj\Debug\for_while_random.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\ntp\for_while_random\for_while_random\obj\Debug\for_while_random.exe
+C:\Users\user\OneDrive\Desktop\ntp\for_while_random\for_while_random\obj\Debug\for_while_random.pdb
